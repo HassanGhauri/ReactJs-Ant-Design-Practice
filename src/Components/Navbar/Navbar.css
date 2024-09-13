@@ -1,5 +1,10 @@
 .navbar{
+    background-color: rgb(74, 31, 192);
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
+    color: white;
+    font-style: italic;
+    height: 8vh;
+
 }
